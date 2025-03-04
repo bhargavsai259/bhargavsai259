@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-bhargavsai259-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav259/)](https://www.linkedin.com/in/bhargav259/)
 [![Gmail Badge](https://img.shields.io/badge/-bhargavsaikumar259@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhargavsaikumar259@gmail.com)](mailto:bhargavsaikumar259@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://bhargavsai259.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it. 🤓
 
 💻 **Things I love**
