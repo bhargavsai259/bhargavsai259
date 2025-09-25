@@ -9,7 +9,6 @@
 💻 **Things I love**
 - MERN Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Building Responsive Web Apps ✍️
-- Exploring Next.js and TypeScript 🧐
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=bhargavsai259&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
@@ -28,7 +27,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Axios](https://img.shields.io/badge/-Axios-000000?style=flat&logo=axios)
 
